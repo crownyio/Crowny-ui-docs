@@ -1,1 +1,0 @@
-import{o as i,c as s,a}from"./app.61078307.js";const e='{"title":"Crowny Icons","description":"","frontmatter":{},"headers":[{"level":2,"title":"Icons (rolling basis)","slug":"icons-rolling-basis"}],"relativePath":"icons/icons.md","lastUpdated":1624374022540}',n={},o=a('',7);n.render=function(a,e,n,c,t,l){return i(),s("div",null,[o])};export default n;export{e as __pageData};
