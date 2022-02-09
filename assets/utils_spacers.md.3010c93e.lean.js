@@ -1,1 +1,0 @@
-import{o as t,c as e,a}from"./app.1f338b60.js";const s='{"title":"Spacers","description":"","frontmatter":{},"headers":[{"level":2,"title":"Spacers","slug":"spacers-1"}],"relativePath":"utils/spacers.md","lastUpdated":1624627944613}',l={},r=a('',8);l.render=function(a,s,l,n,d,p){return t(),e("div",null,[r])};export default l;export{s as __pageData};
