@@ -28,7 +28,7 @@ var g=Object.defineProperty,_=Object.defineProperties;var h=Object.getOwnPropert
                 <span class="token punctuation">{</span><span class="token literal-property property">label</span><span class="token operator">:</span> <span class="token string">&quot;Loyalty program&quot;</span><span class="token punctuation">,</span> <span class="token literal-property property">icon</span><span class="token operator">:</span> <span class="token string">&#39;Rewards&#39;</span><span class="token punctuation">}</span><span class="token punctuation">,</span>
                 <span class="token punctuation">{</span><span class="token literal-property property">label</span><span class="token operator">:</span> <span class="token string">&quot;Summary&quot;</span><span class="token punctuation">,</span> <span class="token literal-property property">icon</span><span class="token operator">:</span> <span class="token string">&#39;TransactionHistory&#39;</span><span class="token punctuation">}</span>
             <span class="token punctuation">]</span><span class="token punctuation">,</span>
-        <span class="token literal-property property">active</span><span class="token operator">:</span> <span class="token number">3</span><span class="token punctuation">,</span>        
+        <span class="token literal-property property">active</span><span class="token operator">:</span> <span class="token number">2</span><span class="token punctuation">,</span>        
       <span class="token punctuation">}</span><span class="token punctuation">)</span>
 
       <span class="token function">onMounted</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>          
@@ -50,4 +50,4 @@ var g=Object.defineProperty,_=Object.defineProperties;var h=Object.getOwnPropert
           setCompleted
       <span class="token punctuation">}</span>
   <span class="token punctuation">}</span>
-</code></pre></div>`,10),z='{"title":"Progressbar","description":"","frontmatter":{},"headers":[{"level":2,"title":"Multi-step progressbar","slug":"multi-step-progressbar"}],"relativePath":"utils/progressbar.md","lastUpdated":1645533759030}',E={},J=Object.assign(E,{setup(s){return(a,n)=>(p(),e("div",null,[B,V(R),j]))}});export{z as __pageData,J as default};
+</code></pre></div>`,10),z='{"title":"Progressbar","description":"","frontmatter":{},"headers":[{"level":2,"title":"Multi-step progressbar","slug":"multi-step-progressbar"}],"relativePath":"utils/progressbar.md","lastUpdated":1645542518420}',E={},J=Object.assign(E,{setup(s){return(a,n)=>(p(),e("div",null,[B,V(R),j]))}});export{z as __pageData,J as default};
